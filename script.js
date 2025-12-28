@@ -51,7 +51,7 @@ var confetti = new ConfettiGenerator(confettiSettings);
 confetti.render();
 
  let p = document.createElement("p");
- p.innerText = "Yayyy 🎉 \nfeel free dm ig:fsharif_vm to discuss time and venue 😉";
+ p.innerText = "Yayyy 🎉 \nfeel free dm ig:_syarap to discuss time and venue 😉";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   p.style.textAlign = "center";
@@ -60,4 +60,5 @@ confetti.render();
   p.style.left = "50%";
   p.style.transform = "translate(-50%, -50%)";
   document.body.appendChild(p);
+
 });
